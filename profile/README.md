@@ -1,6 +1,7 @@
 
 ##  Status: Sunset
-This project has been sunset due to operational challenges and internal constraints.
+- This project has been sunset due to operational challenges and internal constraints.
+- As part of the sunset process, the complete codebase has been open-sourced.
 
 ## Overview
 
